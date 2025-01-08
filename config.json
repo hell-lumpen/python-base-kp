@@ -1,0 +1,5 @@
+{
+    "datasets_dir": "./datasets", 
+    "file_name": "Housing.csv",
+    "output_dir": "./reports"
+}  
